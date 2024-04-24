@@ -4,7 +4,7 @@ Deploy feito com a Render => https://todolistspringboot-yjqc.onrender.com<br/>
 
 Projeto do Mini Curso Java - Rocketseat<br/>
 
-This project consists of using Java and Spring Boot to create the Backend of a ToDo-List<br/>
+This project consists of using Java and Spring Boot to create the controller API of a ToDo-List<br/>
 
 To test, use the deploy link below:<br/>
 https://todolistspringboot-yjqc.onrender.com<br/>
